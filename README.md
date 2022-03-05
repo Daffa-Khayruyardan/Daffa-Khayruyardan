@@ -1,6 +1,6 @@
-<p size=5 align="center">
-    Hi Everyone, My name is Mohammad Daffa
-</p>
+<h2 size=9 align="center">
+    Hi Everyone, My name is Mohammad Daffa <img src="./Icons/waving.png" width="22" height="22"/>
+</h2>
 
 
 ## <img src="./Icons/man.png" width="20" height="20"/> About me
