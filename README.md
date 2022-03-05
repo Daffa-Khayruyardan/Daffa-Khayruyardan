@@ -3,7 +3,7 @@
 </font>
 
 
-## <img src="./Icons/man.png" width="25" height="25"/> About me
+## <img src="./Icons/man.png" width="20" height="20"/> About me
 - <font size="10">
     <img src="./Icons/linux.png" width="15" height="15"/>
     Linux enthusiast
@@ -25,8 +25,8 @@
     Anime watchers, who have watch several season.
   </font>
 
-## What tools I've used
+## <img src="./Icons/settings.png" width="20" height="20"/> What tools I've used
 
-<font size="100"><img src="./Icons/OS.png" width="20" heigth="20"/> **Operating System**</font>
+<font size="10"><img src="./Icons/OS.png" width="20" heigth="20"/> **Operating System**</font>
 
-<font size="15"><img src="./Icons/framework.png" width="20" heigth="20"/> **Framework**</font>
+<font size="10"><img src="./Icons/framework.png" width="20" heigth="20"/> **Framework**</font>
