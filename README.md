@@ -27,6 +27,6 @@
 
 # What tools I've used
 
-<font size="9"><img src="./Icons/OS.png" width="20" heigth="20"/> **Operating System**</font>
+<font size="15"><img src="./Icons/OS.png" width="20" heigth="20"/> **Operating System**</font>
 
-<font size="9"><img src="./Icons/framework.png" width="20" heigth="20"/> **Framework**</font>
+<font size="15"><img src="./Icons/framework.png" width="20" heigth="20"/> **Framework**</font>
