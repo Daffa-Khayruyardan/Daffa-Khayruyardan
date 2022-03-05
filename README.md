@@ -1,4 +1,4 @@
-<font size=5>
+<font size=5 align="center">
     Hi Everyone, My name is Mohammad Daffa
 </font>
 
